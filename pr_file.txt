@@ -1,1 +1,1 @@
-Текст для проверки Pull Request
+Текст из ветки conflict-branchТекст для проверки Pull Request
